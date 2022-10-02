@@ -1,0 +1,17 @@
+logging:
+  level:
+    com:
+      example:
+        demoredis: DEBUG
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/redistestdb
+    username: root
+    password: admin
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL5Dialect
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+    show-sql: true

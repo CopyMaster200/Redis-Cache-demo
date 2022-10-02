@@ -1,0 +1,10 @@
+insert into user(user_id,user_email_id,user_phone_no,user_name) values (1,"user1@yopmail,com","1111111111","user1");
+insert into user(user_id,user_email_id,user_phone_no,user_name) values (2,"user2@yopmail,com","2222222222","user2");
+insert into user(user_id,user_email_id,user_phone_no,user_name) values (3,"user3@yopmail,com","3333333333","user3");
+insert into user(user_id,user_email_id,user_phone_no,user_name) values (4,"user4@yopmail,com","4444444444","user4");
+insert into user(user_id,user_email_id,user_phone_no,user_name) values (5,"user5@yopmail,com","5555555555","user5");
+insert into user(user_id,user_email_id,user_phone_no,user_name) values (6,"user6@yopmail,com","6666666666","user6");
+insert into user(user_id,user_email_id,user_phone_no,user_name) values (7,"user7@yopmail,com","7777777777","user7");
+insert into user(user_id,user_email_id,user_phone_no,user_name) values (8,"user8@yopmail,com","8888888888","user8");
+insert into user(user_id,user_email_id,user_phone_no,user_name) values (9,"user9@yopmail,com","9999999999","user9");
+insert into user(user_id,user_email_id,user_phone_no,user_name) values (10,"user10@yopmail,com","1010101010","user10");
